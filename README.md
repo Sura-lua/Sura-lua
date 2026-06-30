@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39FF14&height=180&section=header&text=Bonno&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Header"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Software+Engineer;Roblox+Scripter+%26+Map+Designer;Freelance+Developer;Roblox+Studio+Thailand" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Software+Engineer;Roblox+Scripter;Freelance+Developer;Roblox+Studio+Thailand" alt="Typing SVG"/>
 
 <br/>
 
@@ -21,9 +21,9 @@
 
 ```lua
 local Bonno = {
-    role = { "Software Engineer", "Roblox Scripter & Map Designer" },
+    role = { "Software Engineer", "Roblox Scripter", "Web Developer" },
     location = "Thailand 🇹🇭",
-    os = "Kali Linux",
+    os = "Kali Linux", "Windows98se"
     focus = { "Backend", "Database", "Game Systems", "Scripting" },
     currentlyLearning = { "Go", "TypeScript" },
     funFact = "I build software & turn ideas into playable Roblox experiences"
