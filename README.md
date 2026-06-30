@@ -25,7 +25,6 @@ local Bonno = {
     location = "Thailand 🇹🇭",
     os = "Kali Linux", "Windows98se"
     focus = { "Backend", "Database", "Game Systems", "Scripting" },
-    currentlyLearning = { "Go", "TypeScript" },
     funFact = "I build software & turn ideas into playable Roblox experiences"
 }
 ```
