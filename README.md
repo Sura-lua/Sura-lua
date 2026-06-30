@@ -1,58 +1,90 @@
-<h2 align="left">Hi 👋! My name is Bonno</h2>
+<div align="center">
 
-###
+# Hi 👋! My name is Bonno
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Roblox+Scripter+%26+Map+Designer;Freelance+Developer;Roblox+Studio+Thailand+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/>
+</p>
+
+### 🌐 Connect with me
+
+<p>
+  <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://discord.gg/YOUR_INVITE" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.facebook.com/YOUR_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+### 🎧 Now Playing
+
+[![Spotify](https://spotify-recently-played-top-tracks.vercel.app/api?count=1&username=YOUR_SPOTIFY_USERNAME)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/Sura-lua/Sura-lua/main/assets/coding.gif" alt="Coding" width="400"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sura-lua&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="GitHub Stats" width="400"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sura-lua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+<img src="https://streak-stats.demolab.com/?user=Sura-lua&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" width="48%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sura-lua&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" alt="Top Languages" width="48%"/>
+
 </div>
 
-###
+<br/>
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRhNmg4NmNuZGlvNnVtYTFkODc2Z3ZreXAxNW9ycjNsam9uNHJxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/u2wg2uXJbHzkXkPphr/giphy.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.gg/bbeng2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://camo.githubusercontent.com/14a646a2ab516c4af8961aa726117a10597be3f0e8d2711d716217fd544a2bd5/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" alt="Snake animation" />
-
-###
 <div align="center">
-  <a href="https://open.spotify.com/user/31636oirxg2izgwcelqafdiideie">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31636oirxg2izgwcelqafdiideie&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+
+![Snake animation](https://raw.githubusercontent.com/Sura-lua/Sura-lua/output/github-contribution-grid-snake.svg)
+
 </div>
 
-###
+<br/>
 
-<p align="left">Hi 👋! My name is Bonno, and I'm a Scripter from Roblox Studio Thailand. I take freelance jobs for creating and designing maps in Roblox Studio. 🚀</p>
+---
 
-###
+<div align="center">
+
+### 👨‍💻 About Me
+
+สวัสดีครับ! ผมชื่อ **Bonno** — Scripter จาก **Roblox Studio Thailand** 🇹🇭  
+รับงาน Freelance สร้างและออกแบบ **Map / Game** ใน Roblox Studio 🚀
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sura-lua&label=Profile%20Views&color=39FF14&style=flat-square" alt="Profile Views"/>
+
+</div>
