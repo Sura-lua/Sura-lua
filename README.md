@@ -38,33 +38,3 @@
 </a>
 
 </td>
-<td valign="middle">
-
-### 🎧 Now Playing
-
-[![Spotify](https://spotify-recently-played-top-tracks.vercel.app/api?count=1&username=YOUR_SPOTIFY_USERNAME)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-</td>
-<td valign="middle">
-
-<img src="https://raw.githubusercontent.com/Sura-lua/Sura-lua/main/assets/coding.gif" alt="Coding" width="280"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
-### 👨‍💻 About Me
-
-สวัสดีครับ! ผมชื่อ **Bonno** — Scripter จาก **Roblox Studio Thailand** 🇹🇭 &nbsp;|&nbsp; รับงาน Freelance สร้างและออกแบบ **Map / Game** ใน Roblox Studio 🚀
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sura-lua&label=Profile%20Views&color=39FF14&style=flat-square" alt="Profile Views"/>
-
-</div>
