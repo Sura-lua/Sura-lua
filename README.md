@@ -9,42 +9,45 @@
 <br/>
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr align="center">
+<td valign="middle">
 
 ### 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-  <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/>
-</p>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+<br/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+<img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/>
+
+</td>
+<td valign="middle">
 
 ### 🌐 Connect with me
 
-<p>
-  <a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://discord.gg/YOUR_INVITE" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.facebook.com/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
+<a href="https://www.youtube.com/@YOUR_CHANNEL" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://discord.gg/YOUR_INVITE" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://www.facebook.com/YOUR_PROFILE" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+</td>
+<td valign="middle">
 
 ### 🎧 Now Playing
 
 [![Spotify](https://spotify-recently-played-top-tracks.vercel.app/api?count=1&username=YOUR_SPOTIFY_USERNAME)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td valign="middle">
 
-<img src="https://raw.githubusercontent.com/Sura-lua/Sura-lua/main/assets/coding.gif" alt="Coding" width="400"/>
+<img src="https://raw.githubusercontent.com/Sura-lua/Sura-lua/main/assets/coding.gif" alt="Coding" width="280"/>
 
 </td>
 </tr>
@@ -58,8 +61,7 @@
 
 ### 👨‍💻 About Me
 
-สวัสดีครับ! ผมชื่อ **Bonno** — Scripter จาก **Roblox Studio Thailand** 🇹🇭  
-รับงาน Freelance สร้างและออกแบบ **Map / Game** ใน Roblox Studio 🚀
+สวัสดีครับ! ผมชื่อ **Bonno** — Scripter จาก **Roblox Studio Thailand** 🇹🇭 &nbsp;|&nbsp; รับงาน Freelance สร้างและออกแบบ **Map / Game** ใน Roblox Studio 🚀
 
 <br/>
 
