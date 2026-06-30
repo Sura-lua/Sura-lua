@@ -65,31 +65,6 @@ local Bonno = {
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="GitHub Stats"/>
-&nbsp;
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39FF14&height=100&section=footer&fontSize=16&fontColor=ffffff" alt="Footer"/>
-
 **Thanks for visiting! Feel free to connect 🚀**
 
 </div>
