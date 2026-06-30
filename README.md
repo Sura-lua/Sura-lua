@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:39FF14&height=180&section=header&text=Bonno&fontSize=42&fontColor=ffffff&animation=twinkling" alt="Header"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Roblox+Scripter+%26+Map+Designer;Freelance+Developer;Roblox+Studio+Thailand+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Software+Engineer;Roblox+Scripter+%26+Map+Designer;Freelance+Developer;Roblox+Studio+Thailand+%F0%9F%87%B9%F0%9F%87%B3" alt="Typing SVG"/>
 
 <br/>
 
@@ -21,11 +21,12 @@
 
 ```lua
 local Bonno = {
-    role = "Roblox Scripter & Map Designer",
+    role = { "Software Engineer", "Roblox Scripter & Map Designer" },
     location = "Thailand 🇹🇭",
-    focus = { "Game Systems", "Map Design", "Scripting" },
+    os = "Kali Linux",
+    focus = { "Backend", "Database", "Game Systems", "Scripting" },
     currentlyLearning = { "Go", "TypeScript" },
-    funFact = "I turn ideas into playable Roblox experiences"
+    funFact = "I build software & turn ideas into playable Roblox experiences"
 }
 ```
 
@@ -54,11 +55,26 @@ local Bonno = {
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 </td>
 <td align="center" width="200">
+<strong>Database</strong><br/><br/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 <strong>Tools</strong><br/><br/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat-square&logo=roblox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</td>
+<td align="center">
+<strong>OS</strong><br/><br/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
 </td>
 </tr>
 </table>
