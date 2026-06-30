@@ -46,31 +46,9 @@
 
 <img src="https://raw.githubusercontent.com/Sura-lua/Sura-lua/main/assets/coding.gif" alt="Coding" width="400"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sura-lua&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" alt="GitHub Stats" width="400"/>
-
 </td>
 </tr>
 </table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Sura-lua&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" width="48%"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sura-lua&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" alt="Top Languages" width="48%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Sura-lua/Sura-lua/output/github-contribution-grid-snake.svg)
-
-</div>
 
 <br/>
 
